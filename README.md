@@ -24,6 +24,7 @@
 - College Management System (CMS)
 - Student Management Module
 - Dashboard UI (React + Tailwind)
+- Online Secure Voting system on real-time monotoring.
 
 ---
 
