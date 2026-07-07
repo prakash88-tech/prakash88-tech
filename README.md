@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Prakash
-
-💻 Full Stack Developer (React | Node | Django)
+# 👋 Hi, I'm Prakash 
 
 ---
 
@@ -14,9 +12,7 @@
 ## 🛠️ Skills
 - React JS
 - Tailwind CSS
-- Node.js
-- Django
-- MongoDB / MySQL
+
 
 ---
 
